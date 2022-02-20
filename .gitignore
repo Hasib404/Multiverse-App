@@ -1,0 +1,12 @@
+.coverage
+.pytest_cache/
+.vscode/
+__pycache__/
+htmlcov/
+.idea
+.spyproject
+/resources/frontend/
+tmp/**
+/app/env
+.DS_Store
+.env
